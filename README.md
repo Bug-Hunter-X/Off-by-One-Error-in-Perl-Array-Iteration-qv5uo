@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating a common off-by-one error when iterating over arrays. The bug.pl file shows the erroneous code, while bugSolution.pl provides the corrected version. The off-by-one error arises from incorrect handling of array indices.
